@@ -3,4 +3,4 @@
 ## 图片工具 - 项目名： - 地址： - 用来做什么： - 我试下来的感受：  
 ## Prompt 合集 - 项目名： - 地址： - 哪几个 Prompt 值得看：  
 ## 自动化工具 - 项目名： - 地址： - 需要什么环境：
-vpn免费-awesome-vpn
+vpn免费 - awesome-vpn: - 地址: https://github.com/awesome-vpn/awesome-vpn
